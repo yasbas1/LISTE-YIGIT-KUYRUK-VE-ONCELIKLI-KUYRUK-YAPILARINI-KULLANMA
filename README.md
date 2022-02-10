@@ -19,7 +19,7 @@ YIĞIT ve KUYRUK
 Müşteri (sınıfı nesnelerinden oluşan) Yığıtı oluşturacak şekilde kodu güncelleyiniz veya kendiniz yazınız. 
 Soru 1’deki tüm müşterileri, oluşturduğunuz Yığıta ekleyiniz.Yığıttaki tüm elemanları çıkartıp ekrana müşteri bilgilerini 
 (Müşteri Adı ve sepetindeki ürün sayısı) ekrana yazdırınız.
-İşlemi Kuyruk (sınıfı) Veri Yapısı için tekrarlayınız. (5)
+İşlemi Kuyruk (sınıfı) Veri Yapısı için tekrarlayınız.
 
 ÖNCELİKLİ KUYRUK
 C# veya Java’da azalan sırada ve O(1) ekleme zamanlı (ama en öncelikli elemanı silmenin daha yavaş olduğu) bir Öncelikli Kuyruk (sınıfı) tasarlayarak yazınız 
