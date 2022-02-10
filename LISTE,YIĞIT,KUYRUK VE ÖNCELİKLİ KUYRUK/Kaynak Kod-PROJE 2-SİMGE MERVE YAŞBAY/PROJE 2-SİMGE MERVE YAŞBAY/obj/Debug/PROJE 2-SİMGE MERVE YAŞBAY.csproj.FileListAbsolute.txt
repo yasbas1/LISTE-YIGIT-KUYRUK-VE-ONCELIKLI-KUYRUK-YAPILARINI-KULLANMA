@@ -1,0 +1,7 @@
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\obj\Debug\PROJE 2-SİMGE MERVE YAŞBAY.csprojAssemblyReference.cache
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\obj\Debug\PROJE 2-SİMGE MERVE YAŞBAY.csproj.CoreCompileInputs.cache
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\bin\Debug\PROJE 2-SİMGE MERVE YAŞBAY.exe.config
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\bin\Debug\PROJE 2-SİMGE MERVE YAŞBAY.exe
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\bin\Debug\PROJE 2-SİMGE MERVE YAŞBAY.pdb
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\obj\Debug\PROJE 2-SİMGE MERVE YAŞBAY.exe
+C:\Users\simge\OneDrive\Masaüstü\PROJE 2-SİMGE MERVE YAŞBAY\PROJE 2-SİMGE MERVE YAŞBAY\obj\Debug\PROJE 2-SİMGE MERVE YAŞBAY.pdb
